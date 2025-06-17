@@ -37,7 +37,7 @@ Here are some of my active or favourite repositories:
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](#) *(Insert your link here)*
+- 🔗 [LinkedIn](#) - comming soon
 - 📬 Reach out via GitHub Discussions or Issues on any repo!
 
 ---
