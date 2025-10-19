@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Joshua Ge
 
-🎓 AI Student | 🐍 Python Enthusiast | 🤖 Machine Learning Explorer
+🎓  Student | Areospace
 
 ---
 
-Welcome to my GitHub profile! I'm currently exploring artificial intelligence, machine learning, and software development with Python. This space is a portfolio of my learning journey and projects—ranging from simple scripts to complete applications.
+Welcome to my GitHub profile! I'm currently exploring artificial intelligence, machine learning, and software development with Python. This is a place to document all my coding learning
 
 ---
 
@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm currently exploring artificial intelligence, m
 Here are some of my active or favourite repositories:
 
 - [📁 Python](https://github.com/Joshua-Ge/Python) — A collection of Python games, tools, and OOP examples.
-- [📚 ML & AI Notebooks](#) — *(Coming Soon)* Explorations into machine learning and neural networks.
-- [🔧 Utilities](#) — Handy Python scripts for everyday tasks.
+Physics simulation
+AI applications in Basic Aerospace
 
 ---
 
@@ -31,13 +31,12 @@ Here are some of my active or favourite repositories:
 
 - 🧠 Machine Learning & Deep Learning (with Scikit-learn & TensorFlow)
 - 🧮 Data Structures and Algorithms
-- 🌐 Web Development (Basics of Flask + Frontend)
+- Physics packages for Python
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](#) - comming soon
 - 📬 Reach out via GitHub Discussions or Issues on any repo!
 
 ---
